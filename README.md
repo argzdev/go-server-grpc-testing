@@ -7,7 +7,7 @@ Follow these setup to run the example:
 
  1. Get the code:
 
-    ```console
+    ```
     $ go get google.golang.org/grpc/examples/helloworld/greeter_client
     $ go get google.golang.org/grpc/examples/helloworld/greeter_server
     ```
