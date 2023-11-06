@@ -1,6 +1,9 @@
 # gRPC Hello World
 
-Follow these setup to run the [quick start][] example:
+Modified template from
+[quick start]: https://grpc.io/docs/languages/go/quickstart
+
+Follow these setup to run the example:
 
  1. Get the code:
 
