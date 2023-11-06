@@ -1,4 +1,7 @@
-# gRPC Hello World
+# go-server-grpc-testing
+
+### Summary
+- This repository sets up a simple golang server with gRPC that receives a Message proto file.
 
 Modified template from
 [quick start]: https://grpc.io/docs/languages/go/quickstart
@@ -12,5 +15,6 @@ Follow these setup to run the example:
     $ cd greeter_server
     $ go run main.go
     ```
+  3. Server now monitors and prints any incoming message with the header.
 
- 3. Use clients to connect to this server from the same IP address and port. (e.g. [android-client](https://github.com/argzdev/android-client-grpc-testing))
+Client code: ([android-client](https://github.com/argzdev/android-client-grpc-testing))
