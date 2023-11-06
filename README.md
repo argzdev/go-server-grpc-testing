@@ -12,5 +12,5 @@ Follow these setup to run the example:
     $ cd greeter_server
     $ go run main.go
     ```
-    
-[quick start]: https://grpc.io/docs/languages/go/quickstart
+
+ 3. Use clients to connect to this server from the same IP address and port. (e.g. [android-client](https://github.com/argzdev/android-client-grpc-testing))
